@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 merge
 
+=======
+Merge Successful
+>>>>>>> hotfix
