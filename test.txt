@@ -1,12 +1,2 @@
-<<<<<<< HEAD
-sdgffdav
-gfv
-dfv
-sdfv
-sfv
-sfrbgrtkbsvfomc
-svfavmo
-ZZ
-=======
-Fixed bug
->>>>>>> hotfix
+merge
+
