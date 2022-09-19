@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 sdgffdav
 gfv
 dfv
@@ -6,3 +7,6 @@ sfv
 sfrbgrtkbsvfomc
 svfavmo
 ZZ
+=======
+Fixed bug
+>>>>>>> hotfix
